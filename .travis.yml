@@ -1,0 +1,4 @@
+language: objective-c
+xcode_project: Codeine.xcodeproj
+xcode_scheme: Codeine
+
